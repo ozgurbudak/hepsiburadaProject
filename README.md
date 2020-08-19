@@ -6,7 +6,8 @@ DB_NAME,
 DB_USER,
 DB_PASSWORD,
 DB_HOST,
-DB_PORT
+DB_PORT,
+SECRET_KEY
 
 After that you can used "docker-compose up" to run the application. Frontend will be on http://localhost:8081/
 
